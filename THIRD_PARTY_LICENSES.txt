@@ -1,0 +1,47 @@
+================================================================================
+Velora — Third-Party Software & Open Source License Notices
+================================================================================
+
+Velora is proprietary software. Copyright (c) 2026 Velora. All rights reserved.
+
+This distribution incorporates third-party open-source components listed below.
+Full upstream license texts from the installed distributions are included in the
+"licenses_third_party" directory alongside this notice.
+
+--------------------------------------------------------------------------------
+1. LGPL-Licensed Components (Dynamic Linking & Replacement Notice)
+--------------------------------------------------------------------------------
+The following components are dynamically linked as shared libraries (.dll/.pyd)
+in this directory so that end users may inspect, modify, or replace them with
+compatible versions in accordance with the GNU Lesser General Public License:
+
+  * PySide6 / Qt 6 (LGPL-3.0-only)
+    - Website & Source: https://www.qt.io/ / https://code.qt.io/
+    - PySide6 Source:   https://code.qt.io/cgit/pyside/pyside-setup.git/
+    - Note: Users can replace the Qt6 / PySide6 shared libraries in "_internal"
+      with binary-compatible LGPL builds of the same Qt 6.x version.
+
+  * libsndfile (bundled via python-soundfile, LGPL-2.1-or-later)
+    - Website & Source: https://libsndfile.github.io/libsndfile/
+    - Note: Users can replace libsndfile / sndfile.dll in "_internal" with a
+      binary-compatible LGPL build.
+
+--------------------------------------------------------------------------------
+2. Permissive Open-Source Components
+--------------------------------------------------------------------------------
+  * Python Runtime (PSF License Agreement)
+    - https://docs.python.org/3/license.html
+
+  * python-soundfile (BSD-3-Clause)
+    - https://github.com/bastibe/python-soundfile
+
+  * python-sounddevice & PortAudio (MIT License)
+    - https://github.com/spatialaudio/python-sounddevice
+    - https://www.portaudio.com/
+
+  * NumPy (BSD-3-Clause)
+    - https://numpy.org/
+
+  * TinyTag (MIT License)
+    - https://github.com/tinytag/tinytag
+
