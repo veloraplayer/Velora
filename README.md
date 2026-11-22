@@ -25,11 +25,11 @@
 
 - **Immersive Listening Mode** — Double-click or drag up the bottom player bar to enter a full-bleed blurred album-art view with smooth cover morphing, adjustable blur intensity (5 levels), slide-out queue, and auto-hiding controls.
 
-https://github.com/user-attachments/assets/65b8fea7-99da-4d52-b314-6c3d4ccc78b3
+https://github.com/user-attachments/assets/77ed8e8c-325b-46c0-8251-0eb6e9f34371
 
 - **4 Real-time FFT Audio Visualizers** — Cycle through **Frame**, **Circular**, **Studio**, and **Horizon** styles with customizable color tones (*Monochrome / Album Tint / Champagne Gold*) and sensitivity.
 
-https://github.com/user-attachments/assets/6eabadf1-f9bc-460a-8029-3bb6ae692659
+https://github.com/user-attachments/assets/b4583505-b681-4646-94f3-70626c96a68e
 
 - **10-Band Real-time Equalizer** — 31 Hz – 16 kHz DSP EQ with preamp and 8 presets (*Flat, Bass Boost, Vocal, Pop, Rock, Jazz, Classical, Electronic*) plus Custom tuning.
 - **Floating Mini Player** — Always-on-top compact player with position lock, smooth background crossfade, and mouse-wheel volume control.
