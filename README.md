@@ -9,8 +9,6 @@
 [![Platform](https://img.shields.io/badge/platform-Windows%2064--bit-0078D6?style=flat-square)](https://github.com/veloraplayer/Velora/releases/latest)
 [![Ko-fi](https://img.shields.io/badge/Support-Ko--fi-FF5E5B?style=flat-square)](https://ko-fi.com/velora_player)
 
-**English** | [한국어](README.ko.md)
-
 [⬇️ Download Latest Release](https://github.com/veloraplayer/Velora/releases/latest) · [🐛 Report a Bug](https://github.com/veloraplayer/Velora/issues) · [📧 Feedback](mailto:veloraplayer@gmail.com)
 
 </div>
