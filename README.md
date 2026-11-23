@@ -17,34 +17,52 @@
 
 ---
 
-<!-- 여기에 메인 화면 / 감상 모드 대표 스크린샷 또는 GIF를 드래그 앤 드롭하세요 -->
 
 **Velora** is a sleek, lightweight local music player for Windows built around clean aesthetics, smooth motion, and an immersive listening experience.
 
+## 🌐 Multilingual UI
+
+English, 한국어, 日本語, 简体中文, 繁體中文, Español, Français, Deutsch
+
 ## ✨ Key Features
 
-- **Immersive Listening Mode** — Double-click or drag up the bottom player bar to enter a full-bleed blurred album-art view with smooth cover morphing, adjustable blur intensity (5 levels), slide-out queue, and auto-hiding controls.
+- **Visual Listening Mode with 4 Visualizers** — Switch to a dedicated listening mode featuring 4 distinct visualizers that react to your music in real time, letting you enjoy every track visually as well as by ear.
 
 
 
 https://github.com/user-attachments/assets/65e7f817-09b3-4821-bfa2-fd833dc27000
 
 
-
-- **4 Real-time FFT Audio Visualizers** — Cycle through **Frame**, **Circular**, **Studio**, and **Horizon** styles with customizable color tones (*Monochrome / Album Tint / Champagne Gold*) and sensitivity.
-
-
 https://github.com/user-attachments/assets/757bc2f8-1ff4-4ee7-9fa2-abafb3136317
 
 
 
-- **10-Band Real-time Equalizer** — 31 Hz – 16 kHz DSP EQ with preamp and 8 presets (*Flat, Bass Boost, Vocal, Pop, Rock, Jazz, Classical, Electronic*) plus Custom tuning.
-- **Floating Mini Player** — Always-on-top compact player with position lock, smooth background crossfade, and mouse-wheel volume control.
-- **Deep Windows Integration** — Instant audio output device switching inside the player, Windows Media Controls (SMTC), single-instance file opening, and optional audio file association.
-- **Fast Library & Playlist Management** — Multi-folder scanning with cache, album grid & track list views, instant search, drag-and-drop playlists, liked tracks, and automatic session/position restore.
-- **Themes & Multilingual UI** — Dark & Light themes, optional performance mode (toggle animations), and **8 languages**: English, 한국어, 日本語, 简体中文, 繁體中文, Español, Français, Deutsch.
+- **Usable Even in Small Windows** — Keep it tucked into a small window while you work without losing control. Essential playback actions stay accessible and easy to hit even in compact spaces.
 
-<!-- 여기에 미니 플레이어 / 이퀄라이저 / 화이트 테마 스크린샷을 드래그 앤 드롭하세요 (선택) -->
+
+
+https://github.com/user-attachments/assets/1429b319-696d-4afc-a175-dcf1e3eec364
+
+
+  
+- **Adjustable Element Sizes** — Resize UI elements to fit your screen, eyesight, and layout preferences—balancing clean visibility with room for everything else on your desktop.
+
+
+
+https://github.com/user-attachments/assets/a5e85258-0fe4-4c00-a03d-069e843e4a88
+
+
+
+- **Easy Drag-Based Controls** — Built-in drag support makes everyday interaction smooth and intuitive, letting you control playback and layout effortlessly without digging through menus.
+
+
+
+https://github.com/user-attachments/assets/7ded1652-d3f9-427e-bd09-95db7ab909e6
+
+
+
+- **All the Essentials Built In** — Naturally includes every must-have feature you expect from a great music player—a compact Mini Player, a customizable Equalizer, and seamless Dark/Light Theme switching.
+
 
 ## 🎵 Supported Audio Formats
 
